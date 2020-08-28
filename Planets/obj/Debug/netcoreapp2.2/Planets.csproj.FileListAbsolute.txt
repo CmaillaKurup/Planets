@@ -1,0 +1,12 @@
+/Users/caku/Desktop/Skole/Programmering/Planets/Planets/obj/Debug/netcoreapp2.2/Planets.csprojAssemblyReference.cache
+/Users/caku/Desktop/Skole/Programmering/Planets/Planets/obj/Debug/netcoreapp2.2/Planets.AssemblyInfoInputs.cache
+/Users/caku/Desktop/Skole/Programmering/Planets/Planets/obj/Debug/netcoreapp2.2/Planets.AssemblyInfo.cs
+/Users/caku/Desktop/Skole/Programmering/Planets/Planets/obj/Debug/netcoreapp2.2/Planets.csproj.CoreCompileInputs.cache
+/Users/caku/Desktop/Skole/Programmering/Planets/Planets/bin/Debug/netcoreapp2.2/Planets.deps.json
+/Users/caku/Desktop/Skole/Programmering/Planets/Planets/bin/Debug/netcoreapp2.2/Planets.runtimeconfig.json
+/Users/caku/Desktop/Skole/Programmering/Planets/Planets/bin/Debug/netcoreapp2.2/Planets.runtimeconfig.dev.json
+/Users/caku/Desktop/Skole/Programmering/Planets/Planets/bin/Debug/netcoreapp2.2/Planets.dll
+/Users/caku/Desktop/Skole/Programmering/Planets/Planets/bin/Debug/netcoreapp2.2/Planets.pdb
+/Users/caku/Desktop/Skole/Programmering/Planets/Planets/obj/Debug/netcoreapp2.2/Planets.dll
+/Users/caku/Desktop/Skole/Programmering/Planets/Planets/obj/Debug/netcoreapp2.2/Planets.pdb
+/Users/caku/Desktop/Skole/Programmering/Planets/Planets/obj/Debug/netcoreapp2.2/Planets.genruntimeconfig.cache
